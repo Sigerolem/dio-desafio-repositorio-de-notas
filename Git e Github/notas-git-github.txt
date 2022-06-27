@@ -1,0 +1,12 @@
+Comandos mais comuns:
+git init
+git add .
+git clone http://
+git comit -m "mensagem aqui"
+git status
+git pull
+git push origin master
+git branch
+gir merge
+git diff     <source-branch> <target-branch>
+git log
